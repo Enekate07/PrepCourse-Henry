@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es el comienzo de mi curso gratuito de JavaScript (Modulo 2)
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde GitHub a mi computadora
